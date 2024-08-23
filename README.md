@@ -1,0 +1,3 @@
+Welcome To AwanTech, Mini Games!
+This repository will contain all the source codes of the mini-games I have completed as my projects...
+ENJOY!
